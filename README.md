@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=rikuto-niwa04)
+![GitHub stars](https://img.shields.io/github/stars/rikuto-niwa04?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 # Hi, I'm Rikuto Niwa 👋
 
