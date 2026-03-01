@@ -12,14 +12,21 @@
 ### 🗂 task-management-app
 Spring Boot を用いた業務管理アプリ（MVP開発中）
 
+**Tech Stack**
 - Java 17
 - Spring Boot
 - Spring Security
 - PostgreSQL
 - Gradle
+- JUnit
 
-設計 → 実装 → テスト → 改善
-の流れを意識して開発しています。
+**Focus**
+- ドメイン設計（Task / Status遷移）
+- Service層の責務分離
+- 監査ログ設計
+- バージョンタグによる段階的リリース
+
+👉 Repository: https://github.com/rikuto-niwa04/task-management-app
 
 ---
 
@@ -45,7 +52,7 @@ Next.js で作成したポートフォリオサイト
 
 ## 🎯 Goal
 
-モダンなWebバックエンド開発環境で
+Webバックエンド開発環境で
 設計から実装まで担えるエンジニアになること。
 
 ---
