@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/rikuto-niwa04?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rikuto-niwa04?label=Follow&style=social)
 
 # Hi, I'm Rikuto Niwa 👋
 
