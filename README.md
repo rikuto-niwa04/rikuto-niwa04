@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-niwa04&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-niwa&layout=compact)
 
 # Hi, I'm Rikuto Niwa 👋
 
